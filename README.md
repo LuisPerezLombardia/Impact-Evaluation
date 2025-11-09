@@ -1,2 +1,2 @@
 # Impact-Evaluation
-This document collects the most common analytical techniques for the profession of impact evaluation. It contains not only a list of tools and techniques, but also best practices. 
+This document brings together the most commonly used analytical techniques in the field of impact evaluation. It includes not only a catalogue of tools and methods, but also guidance on best practices. 
